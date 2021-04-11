@@ -12,6 +12,7 @@
             "console": "internalConsole",
             "cwd":"${fileDirname}",
             "stopOnEntry":true,
+            "justMyCode":true,
         }
     ]
 }
